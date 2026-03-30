@@ -5,6 +5,7 @@
 
 #include <stdio.h>
 
+void mod(int m, int n)
 void sub(int m, int n);
 void mul(int m, int n);
 
